@@ -77,3 +77,4 @@ cv2.destroyAllWindows()
 
 # Convertir los resultados en un DataFrame
 resultados_df = pd.DataFrame(resultados)
+#test
